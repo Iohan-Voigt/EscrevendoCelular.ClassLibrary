@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscrevendoCelular", "EscrevendoCelular\EscrevendoCelular.csproj", "{3FE6D94B-6FB1-4A66-A4EB-DB8FEC4BA565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectTradutorCelular", "UnitTestProjectTradutorCelular\UnitTestProjectTradutorCelular.csproj", "{CA53494E-E87E-4966-8334-B1BA9987DA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE6D94B-6FB1-4A66-A4EB-DB8FEC4BA565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE6D94B-6FB1-4A66-A4EB-DB8FEC4BA565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE6D94B-6FB1-4A66-A4EB-DB8FEC4BA565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE6D94B-6FB1-4A66-A4EB-DB8FEC4BA565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA53494E-E87E-4966-8334-B1BA9987DA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA53494E-E87E-4966-8334-B1BA9987DA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA53494E-E87E-4966-8334-B1BA9987DA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA53494E-E87E-4966-8334-B1BA9987DA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9565DE2D-FFB0-4A33-8E0B-280FEC0F27E9}
+	EndGlobalSection
+EndGlobal
